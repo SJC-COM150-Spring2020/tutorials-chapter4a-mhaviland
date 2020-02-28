@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\bin\Debug\exerciser4.exe.config
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\bin\Debug\exerciser4.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\bin\Debug\exerciser4.pdb
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\bin\Debug\exerciser4.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\obj\Debug\exerciser4.exercise4.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\obj\Debug\exerciser4.Resources.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\obj\Debug\exerciser4.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\obj\Debug\exerciser4.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\obj\Debug\exerciser4.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\exerciser4\obj\Debug\exerciser4.pdb

@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\bin\Debug\Exercise5.exe.config
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\bin\Debug\Exercise5.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\bin\Debug\Exercise5.pdb
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\bin\Debug\Exercise5.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\obj\Debug\Exercise5.exercise5.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\obj\Debug\Exercise5.Resources.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\obj\Debug\Exercise5.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\obj\Debug\Exercise5.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\obj\Debug\Exercise5.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter4\Exercise5\obj\Debug\Exercise5.pdb
